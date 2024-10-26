@@ -1,0 +1,3 @@
+C:\Users\valer\source\repos\clr-arrays\clr-arrays\x64\Debug\clr-arrays.vcxproj.AssemblyReference.cache
+C:\Users\valer\source\repos\clr-arrays\clr-arrays\x64\Debug\clrarrays.MyForm.resources
+C:\Users\valer\source\repos\clr-arrays\clr-arrays\x64\Debug\clr-arrays.vcxproj.GenerateResource.cache
