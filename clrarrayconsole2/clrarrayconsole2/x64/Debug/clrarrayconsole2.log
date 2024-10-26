@@ -1,0 +1,6 @@
+﻿  clrarrayconsole2.cpp
+C:\Users\valer\source\repos\clrarrayconsole2\clrarrayconsole2\clrarrayconsole2.cpp(32,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/clrarrayconsole2.cpp")
+  
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  clrarrayconsole2.vcxproj -> C:\Users\valer\source\repos\clrarrayconsole2\x64\Debug\clrarrayconsole2.exe
