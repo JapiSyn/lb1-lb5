@@ -1,0 +1,192 @@
+[
+  {
+    "Name": "Wizard",
+    "Subclasses": [
+      {
+        "Name": "Evocation",
+        "Description": "Masters of elemental destruction.",
+        "Features": [
+          {
+            "Name": "Sculpt Spells",
+            "LevelAcquired": 2,
+            "Description": "Protect allies from your area spells."
+          },
+          {
+            "Name": "Potent Cantrip",
+            "LevelAcquired": 6,
+            "Description": "Your damaging cantrips are more effective."
+          }
+        ]
+      },
+      {
+        "Name": "Necromancy",
+        "Description": "Manipulates life and death.",
+        "Features": [
+          {
+            "Name": "Grim Harvest",
+            "LevelAcquired": 2,
+            "Description": "Regain HP when killing with a spell."
+          }
+        ]
+      }
+    ],
+    "AvailableSpells": [
+      {
+        "Name": "Magic Missile",
+        "Level": 1,
+        "School": "Evocation",
+        "Description": "Auto-hitting force damage."
+      },
+      {
+        "Name": "Fireball",
+        "Level": 3,
+        "School": "Evocation",
+        "Description": "Area fire damage."
+      },
+      {
+        "Name": "Animate Dead",
+        "Level": 3,
+        "School": "Necromancy",
+        "Description": "Raise skeleton or zombie to fight for you."
+      }
+    ]
+  },
+  {
+    "Name": "Cleric",
+    "Subclasses": [
+      {
+        "Name": "Life Domain",
+        "Description": "Specialized in healing and protection.",
+        "Features": [
+          {
+            "Name": "Disciple of Life",
+            "LevelAcquired": 1,
+            "Description": "Your healing spells are more effective."
+          }
+        ]
+      },
+      {
+        "Name": "Light Domain",
+        "Description": "Uses radiant damage and blinding effects.",
+        "Features": [
+          {
+            "Name": "Warding Flare",
+            "LevelAcquired": 1,
+            "Description": "Impose disadvantage on attackers."
+          }
+        ]
+      }
+    ],
+    "AvailableSpells": [
+      {
+        "Name": "Cure Wounds",
+        "Level": 1,
+        "School": "Evocation",
+        "Description": "Restores hit points."
+      },
+      {
+        "Name": "Guiding Bolt",
+        "Level": 1,
+        "School": "Evocation",
+        "Description": "Radiant damage and next attack gets advantage."
+      },
+      {
+        "Name": "Flame Strike",
+        "Level": 5,
+        "School": "Evocation",
+        "Description": "Divine fire from the sky."
+      }
+    ]
+  },
+  {
+    "Name": "Fighter",
+    "Subclasses": [
+      {
+        "Name": "Champion",
+        "Description": "Focus on physical power and critical hits.",
+        "Features": [
+          {
+            "Name": "Improved Critical",
+            "LevelAcquired": 3,
+            "Description": "Score crits on 19-20."
+          }
+        ]
+      },
+      {
+        "Name": "Battle Master",
+        "Description": "Tactical fighter with maneuvers.",
+        "Features": [
+          {
+            "Name": "Combat Superiority",
+            "LevelAcquired": 3,
+            "Description": "Use maneuvers for bonus effects."
+          }
+        ]
+      }
+    ],
+    "AvailableSpells": []
+  },
+  {
+    "Name": "Rogue",
+    "Subclasses": [
+      {
+        "Name": "Thief",
+        "Description": "Expert in stealth and thievery.",
+        "Features": [
+          {
+            "Name": "Fast Hands",
+            "LevelAcquired": 3,
+            "Description": "Bonus actions for item use."
+          }
+        ]
+      },
+      {
+        "Name": "Assassin",
+        "Description": "Master of ambush and critical hits.",
+        "Features": [
+          {
+            "Name": "Assassinate",
+            "LevelAcquired": 3,
+            "Description": "Advantage against surprised enemies."
+          }
+        ]
+      }
+    ],
+    "AvailableSpells": []
+  },
+  {
+    "Name": "Paladin",
+    "Subclasses": [
+      {
+        "Name": "Oath of Devotion",
+        "Description": "Holy warriors of justice.",
+        "Features": [
+          {
+            "Name": "Sacred Weapon",
+            "LevelAcquired": 3,
+            "Description": "Add Charisma to weapon attacks."
+          }
+        ]
+      },
+      {
+        "Name": "Oath of Vengeance",
+        "Description": "Focused on swift punishment.",
+        "Features": [
+          {
+            "Name": "Abjure Enemy",
+            "LevelAcquired": 3,
+            "Description": "Frighten an enemy."
+          }
+        ]
+      }
+    ],
+    "AvailableSpells": [
+      {
+        "Name": "Bless",
+        "Level": 1,
+        "School": "Enchantment",
+        "Description": "Add +1d4 to allies’ attacks and saves."
+      }
+    ]
+  }
+]
