@@ -1,12 +1,12 @@
 [
   {
     "Name": "Wizard",
-    "Image": "https://bg3.wiki/w/images/thumb/a/ab/ClassIcon_Wizard.webp/128px-ClassIcon_Wizard.webp.png",
+    "Image": "https://bg3.wiki/w/images/thumb/d/d9/Class_Wizard_Badge_Icon.png/150px-Class_Wizard_Badge_Icon.png",
     "Subclasses": [
       {
         "Name": "Evocation",
         "Description": "Masters of elemental destruction.",
-        "Image": "https://bg3.wiki/w/images/thumb/e/e0/SubclassIcon_Wizard_School_of_Evocation.webp/128px-SubclassIcon_Wizard_School_of_Evocation.webp.png",
+        "Image": "https://bg3.wiki/w/images/thumb/8/81/Class_Wizard_Evocation_Badge_Icon.png/150px-Class_Wizard_Evocation_Badge_Icon.png",
         "Features": [
           {
             "Name": "Sculpt Spells",
@@ -23,7 +23,7 @@
       {
         "Name": "Necromancy",
         "Description": "Manipulates life and death.",
-        "Image": "https://bg3.wiki/w/images/thumb/7/7b/SubclassIcon_Wizard_School_of_Necromancy.webp/128px-SubclassIcon_Wizard_School_of_Necromancy.webp.png",
+        "Image": "https://bg3.wiki/w/images/thumb/6/6a/Class_Wizard_Necromancy_Badge_Icon.png/150px-Class_Wizard_Necromancy_Badge_Icon.png",
         "Features": [
           {
             "Name": "Grim Harvest",
@@ -61,7 +61,7 @@
       {
         "Name": "Life Domain",
         "Description": "Specialized in healing and protection.",
-        "Image": "https://bg3.wiki/w/images/thumb/0/07/SubclassIcon_Cleric_Life_Domain.webp/128px-SubclassIcon_Cleric_Life_Domain.webp.png",
+        "Image": "https://bg3.wiki/w/images/thumb/9/98/Class_Cleric_Life_Badge_Icon.png/150px-Class_Cleric_Life_Badge_Icon.png",
         "Features": [
           {
             "Name": "Disciple of Life",
@@ -73,7 +73,7 @@
       {
         "Name": "Light Domain",
         "Description": "Uses radiant damage and blinding effects.",
-        "Image": "https://bg3.wiki/w/images/thumb/b/b8/SubclassIcon_Cleric_Light_Domain.webp/128px-SubclassIcon_Cleric_Light_Domain.webp.png",
+        "Image": "https://bg3.wiki/w/images/thumb/3/30/Class_Cleric_Light_Badge_Icon.png/150px-Class_Cleric_Light_Badge_Icon.png",
         "Features": [
           {
             "Name": "Warding Flare",
