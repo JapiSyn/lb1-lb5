@@ -1,12 +1,12 @@
 [
   {
     "Name": "Wizard",
-    "Image": "https://bg3.wiki/w/images/thumb/a/ab/ClassIcon_Wizard.webp/128px-ClassIcon_Wizard.webp.png", // Пример URL для картинки класса
+    "Image": "https://bg3.wiki/w/images/thumb/a/ab/ClassIcon_Wizard.webp/128px-ClassIcon_Wizard.webp.png",
     "Subclasses": [
       {
         "Name": "Evocation",
         "Description": "Masters of elemental destruction.",
-        "Image": "https://bg3.wiki/w/images/thumb/e/e0/SubclassIcon_Wizard_School_of_Evocation.webp/128px-SubclassIcon_Wizard_School_of_Evocation.webp.png", // Пример URL для картинки подкласса
+        "Image": "https://bg3.wiki/w/images/thumb/e/e0/SubclassIcon_Wizard_School_of_Evocation.webp/128px-SubclassIcon_Wizard_School_of_Evocation.webp.png",
         "Features": [
           {
             "Name": "Sculpt Spells",
