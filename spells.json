@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "Fireball",
+    "Level": 3,
+    "School": "Evocation",
+    "Description": "Explodes for fire damage in an area.",
+    "Image": "https://files.cults3d.com/uploaders/31278948/illustration-file/b0bf0d84-b4ef-4427-9317-d5ec4428f24e/380px-Fireball.webp.png"
+  },
+  {
+    "Name": "Mage Armor",
+    "Level": 1,
+    "School": "Abjuration",
+    "Description": "Magical shield that increases AC.",
+    "Image": "https://bg3.wiki/w/images/thumb/5/51/Mage_Armour.webp/380px-Mage_Armour.webp.png"
+  },
+  {
+    "Name": "Shield",
+    "Level": 1,
+    "School": "Abjuration",
+    "Description": "Add +5 AC as reaction.",
+    "Image": "https://gameslantern.com/storage/sites/baldurs-gate-3/spells/tIeBOGNHIpbtD8VKDFXjuyIO1ZTeoBtbT22W18Oo.png"
+  },
+  {
+    "Name": "Bless",
+    "Level": 1,
+    "School": "Enchantment",
+    "Description": "Grants +1d4 to attack/saves.",
+    "Image": "https://gameslantern.com/storage/sites/baldurs-gate-3/spells/9fZaz3WWmF0Wpj5o0sJMrW939o8yltCz03vJMX5a.png"
+  },
+  {
+    "Name": "Cure Wounds",
+    "Level": 1,
+    "School": "Evocation",
+    "Description": "Restores HP by touch.",
+    "Image": "https://bg3.wiki/w/images/thumb/e/e1/Cure_Wounds.webp/300px-Cure_Wounds.webp.png"
+  },
+  {
+    "Name": "Guiding Bolt",
+    "Level": 1,
+    "School": "Evocation",
+    "Description": "Radiant beam that grants advantage.",
+    "Image": "https://www.gamerguides.com/assets/media/15/16402/spell_evocation_guidingbolt-d44fc4c1.png"
+  },
+  {
+    "Name": "Sleep",
+    "Level": 1,
+    "School": "Enchantment",
+    "Description": "Puts creatures to magical sleep.",
+    "Image": "https://bg3.wiki/w/images/thumb/c/c4/Sleep.webp/300px-Sleep.webp.png"
+  },
+  {
+    "Name": "Magic Missile",
+    "Level": 1,
+    "School": "Evocation",
+    "Description": "Force projectiles that auto-hit.",
+    "Image": "https://bg3.wiki/w/images/thumb/d/d8/Magic_Missile.webp/300px-Magic_Missile.webp.png"
+  },
+  {
+    "Name": "Fly",
+    "Level": 3,
+    "School": "Transmutation",
+    "Description": "Target gains flying speed.",
+    "Image": "https://bg3.wiki/w/images/thumb/8/88/Grant_Flight.webp/380px-Grant_Flight.webp.png"
+  },
+  {
+    "Name": "Invisibility",
+    "Level": 2,
+    "School": "Illusion",
+    "Description": "Makes creature invisible until attack or spell.",
+    "Image": "https://gameslantern.com/storage/sites/baldurs-gate-3/spells/AzAQr2RrFHw1t6WFSLVGAtteesSuBRX6a7SsnWbe.png"
+  }
+]
