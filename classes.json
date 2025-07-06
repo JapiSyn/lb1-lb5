@@ -23,8 +23,7 @@
       {
         "Name": "Necromancy",
         "Description": "Manipulates life and death.",
-        "Image": "https://bg3.wiki/w/images/thumb/7/7b/SubclassIcon_Wizard_School_of_Necromancy.webp/128px-SubclassIcon_Wizard_School_of_Necromancy.webp.png", // Пример URL для картинки подкласса
-        "Features": [
+        "Image": "https://bg3.wiki/w/images/thumb/7/7b/SubclassIcon_Wizard_School_of_Necromancy.webp/128px-SubclassIcon_Wizard_School_of_Necromancy.webp.png",
           {
             "Name": "Grim Harvest",
             "LevelAcquired": 2,
