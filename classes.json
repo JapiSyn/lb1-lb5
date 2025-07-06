@@ -33,7 +33,7 @@
         ]
       }
     ],
-    "AvailableSpells": [ // Здесь можно оставить так, или использовать имена/ID для связи с общим списком заклинаний
+    "AvailableSpells": [
       {
         "Name": "Magic Missile",
         "Level": 1,
