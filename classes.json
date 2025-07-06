@@ -1,10 +1,12 @@
 [
   {
     "Name": "Wizard",
+    "Image": "https://bg3.wiki/w/images/thumb/a/ab/ClassIcon_Wizard.webp/128px-ClassIcon_Wizard.webp.png", // Пример URL для картинки класса
     "Subclasses": [
       {
         "Name": "Evocation",
         "Description": "Masters of elemental destruction.",
+        "Image": "https://bg3.wiki/w/images/thumb/e/e0/SubclassIcon_Wizard_School_of_Evocation.webp/128px-SubclassIcon_Wizard_School_of_Evocation.webp.png", // Пример URL для картинки подкласса
         "Features": [
           {
             "Name": "Sculpt Spells",
@@ -21,6 +23,7 @@
       {
         "Name": "Necromancy",
         "Description": "Manipulates life and death.",
+        "Image": "https://bg3.wiki/w/images/thumb/7/7b/SubclassIcon_Wizard_School_of_Necromancy.webp/128px-SubclassIcon_Wizard_School_of_Necromancy.webp.png", // Пример URL для картинки подкласса
         "Features": [
           {
             "Name": "Grim Harvest",
@@ -30,7 +33,7 @@
         ]
       }
     ],
-    "AvailableSpells": [
+    "AvailableSpells": [ // Здесь можно оставить так, или использовать имена/ID для связи с общим списком заклинаний
       {
         "Name": "Magic Missile",
         "Level": 1,
@@ -53,10 +56,12 @@
   },
   {
     "Name": "Cleric",
+    "Image": "https://bg3.wiki/w/images/thumb/d/d4/ClassIcon_Cleric.webp/128px-ClassIcon_Cleric.webp.png",
     "Subclasses": [
       {
         "Name": "Life Domain",
         "Description": "Specialized in healing and protection.",
+        "Image": "https://bg3.wiki/w/images/thumb/0/07/SubclassIcon_Cleric_Life_Domain.webp/128px-SubclassIcon_Cleric_Life_Domain.webp.png",
         "Features": [
           {
             "Name": "Disciple of Life",
@@ -68,6 +73,7 @@
       {
         "Name": "Light Domain",
         "Description": "Uses radiant damage and blinding effects.",
+        "Image": "https://bg3.wiki/w/images/thumb/b/b8/SubclassIcon_Cleric_Light_Domain.webp/128px-SubclassIcon_Cleric_Light_Domain.webp.png",
         "Features": [
           {
             "Name": "Warding Flare",
@@ -100,10 +106,12 @@
   },
   {
     "Name": "Fighter",
+    "Image": "https://bg3.wiki/w/images/thumb/d/d5/ClassIcon_Fighter.webp/128px-ClassIcon_Fighter.webp.png",
     "Subclasses": [
       {
         "Name": "Champion",
         "Description": "Focus on physical power and critical hits.",
+        "Image": "https://bg3.wiki/w/images/thumb/b/b5/SubclassIcon_Fighter_Battle_Master.webp/128px-SubclassIcon_Fighter_Battle_Master.webp.png",
         "Features": [
           {
             "Name": "Improved Critical",
@@ -115,6 +123,7 @@
       {
         "Name": "Battle Master",
         "Description": "Tactical fighter with maneuvers.",
+        "Image": "https://bg3.wiki/w/images/thumb/b/b5/SubclassIcon_Fighter_Battle_Master.webp/128px-SubclassIcon_Fighter_Battle_Master.webp.png",
         "Features": [
           {
             "Name": "Combat Superiority",
@@ -128,10 +137,12 @@
   },
   {
     "Name": "Rogue",
+    "Image": "https://bg3.wiki/w/images/thumb/7/77/ClassIcon_Rogue.webp/128px-ClassIcon_Rogue.webp.png",
     "Subclasses": [
       {
         "Name": "Thief",
         "Description": "Expert in stealth and thievery.",
+        "Image": "https://bg3.wiki/w/images/thumb/2/23/SubclassIcon_Rogue_Thief.webp/128px-SubclassIcon_Rogue_Thief.webp.png",
         "Features": [
           {
             "Name": "Fast Hands",
@@ -143,6 +154,7 @@
       {
         "Name": "Assassin",
         "Description": "Master of ambush and critical hits.",
+        "Image": "https://bg3.wiki/w/images/thumb/c/cf/SubclassIcon_Rogue_Assassin.webp/128px-SubclassIcon_Rogue_Assassin.webp.png",
         "Features": [
           {
             "Name": "Assassinate",
@@ -156,10 +168,12 @@
   },
   {
     "Name": "Paladin",
+    "Image": "https://bg3.wiki/w/images/thumb/8/8c/ClassIcon_Paladin.webp/128px-ClassIcon_Paladin.webp.png",
     "Subclasses": [
       {
         "Name": "Oath of Devotion",
         "Description": "Holy warriors of justice.",
+        "Image": "https://bg3.wiki/w/images/thumb/5/52/SubclassIcon_Paladin_Oath_of_Devotion.webp/128px-SubclassIcon_Paladin_Oath_of_Devotion.webp.png",
         "Features": [
           {
             "Name": "Sacred Weapon",
@@ -171,6 +185,7 @@
       {
         "Name": "Oath of Vengeance",
         "Description": "Focused on swift punishment.",
+        "Image": "https://bg3.wiki/w/images/thumb/5/5e/SubclassIcon_Paladin_Oath_of_Vengeance.webp/128px-SubclassIcon_Paladin_Oath_of_Vengeance.webp.png",
         "Features": [
           {
             "Name": "Abjure Enemy",
