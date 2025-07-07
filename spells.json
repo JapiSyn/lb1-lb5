@@ -7,8 +7,7 @@
     "Image": "https://files.cults3d.com/uploaders/31278948/illustration-file/b0bf0d84-b4ef-4427-9317-d5ec4428f24e/380px-Fireball.webp.png",
     "Damage": "8d6 Fire",
     "Distance": "18m",
-    "CastingCost": "Action",
-    "isCantrip": false
+    "CastingCost": "Action"
   },
   {
     "Name": "Mage Armor",
@@ -18,8 +17,7 @@
     "Image": "https://bg3.wiki/w/images/thumb/5/51/Mage_Armour.webp/380px-Mage_Armour.webp.png",
     "Damage": "None",
     "Distance": "Touch",
-    "CastingCost": "Action",
-    "isCantrip": false
+    "CastingCost": "Action"
   },
   {
     "Name": "Shield",
@@ -29,8 +27,7 @@
     "Image": "https://gameslantern.com/storage/sites/baldurs-gate-3/spells/tIeBOGNHIpbtD8VKDFXjuyIO1ZTeoBtbT22W18Oo.png",
     "Damage": "None",
     "Distance": "Self",
-    "CastingCost": "Reaction",
-    "isCantrip": false
+    "CastingCost": "Reaction"
   },
   {
     "Name": "Bless",
@@ -40,8 +37,7 @@
     "Image": "https://gameslantern.com/storage/sites/baldurs-gate-3/spells/9fZaz3WWmF0Wpj5o0sJMrW939o8yltCz03vJMX5a.png",
     "Damage": "None",
     "Distance": "9m",
-    "CastingCost": "Action",
-    "isCantrip": false
+    "CastingCost": "Action"
   },
   {
     "Name": "Cure Wounds",
@@ -51,8 +47,7 @@
     "Image": "https://bg3.wiki/w/images/thumb/e/e1/Cure_Wounds.webp/300px-Cure_Wounds.webp.png",
     "Damage": "1d8+Spell Mod Healing",
     "Distance": "Touch",
-    "CastingCost": "Action",
-    "isCantrip": false
+    "CastingCost": "Action"
   },
   {
     "Name": "Guiding Bolt",
@@ -62,8 +57,7 @@
     "Image": "https://www.gamerguides.com/assets/media/15/16402/spell_evocation_guidingbolt-d44fc4c1.png",
     "Damage": "4d6 Radiant",
     "Distance": "18m",
-    "CastingCost": "Action",
-    "isCantrip": false
+    "CastingCost": "Action"
   },
   {
     "Name": "Sleep",
@@ -73,8 +67,7 @@
     "Image": "https://bg3.wiki/w/images/thumb/c/c4/Sleep.webp/300px-Sleep.webp.png",
     "Damage": "None",
     "Distance": "18m",
-    "CastingCost": "Action",
-    "isCantrip": false
+    "CastingCost": "Action"
   },
   {
     "Name": "Magic Missile",
@@ -84,8 +77,7 @@
     "Image": "https://bg3.wiki/w/images/thumb/d/d8/Magic_Missile.webp/300px-Magic_Missile.webp.png",
     "Damage": "1d4+1 Force (per missile)",
     "Distance": "36m",
-    "CastingCost": "Action",
-    "isCantrip": false
+    "CastingCost": "Action"
   },
   {
     "Name": "Fly",
@@ -95,8 +87,7 @@
     "Image": "https://bg3.wiki/w/images/thumb/8/88/Grant_Flight.webp/380px-Grant_Flight.webp.png",
     "Damage": "None",
     "Distance": "9m",
-    "CastingCost": "Action",
-    "isCantrip": false
+    "CastingCost": "Action"
   },
   {
     "Name": "Invisibility",
@@ -106,8 +97,7 @@
     "Image": "https://gameslantern.com/storage/sites/baldurs-gate-3/spells/AzAQr2RrFHw1t6WFSLVGAtteesSuBRX6a7SsnWbe.png",
     "Damage": "None",
     "Distance": "Touch",
-    "CastingCost": "Action",
-    "isCantrip": false
+    "CastingCost": "Action"
   },
   {
     "Name": "Fire Bolt",
@@ -117,8 +107,7 @@
     "Image": "https://bg3.wiki/w/images/thumb/8/8e/Fire_Bolt.webp/300px-Fire_Bolt.webp.png",
     "Damage": "1d10 Fire",
     "Distance": "18m",
-    "CastingCost": "Action",
-    "isCantrip": true
+    "CastingCost": "Action"
   },
   {
     "Name": "Minor Illusion",
@@ -128,7 +117,6 @@
     "Image": "https://bg3.wiki/w/images/thumb/4/47/Minor_Illusion.webp/300px-Minor_Illusion.webp.png",
     "Damage": "None",
     "Distance": "9m",
-    "CastingCost": "Action",
-    "isCantrip": true
+    "CastingCost": "Action"
   }
 ]
