@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Sword of Justice",
+    "Description": "A holy greatsword found early in the game, imbued with the power of Tyr.",
+    "Location": "Goblin Camp, by Anders",
+    "Act": 1,
+    "Rarity": "Uncommon",
+    "Image": "https://bg3.wiki/w/images/thumb/a/a2/Sword_of_Justice.png/250px-Sword_of_Justice.png"
+  },
+  {
+    "Name": "Amulet of Misty Step",
+    "Description": "Allows the wearer to cast Misty Step once per Short Rest, providing excellent mobility.",
+    "Location": "Underdark, Selûnite Outpost",
+    "Act": 1,
+    "Rarity": "Rare",
+    "Image": "https://bg3.wiki/w/images/thumb/8/87/Amulet_of_Misty_Step.png/250px-Amulet_of_Misty_Step.png"
+  },
+  {
+    "Name": "Gloves of Dexterity",
+    "Description": "Sets the wearer's Dexterity to 18, and grants Advantage on Attack Rolls.",
+    "Location": "Crèche Y'llek, by Quartermaster Ardent",
+    "Act": 1,
+    "Rarity": "Very Rare",
+    "Image": "https://bg3.wiki/w/images/thumb/0/05/Gloves_of_Dexterity.png/250px-Gloves_of_Dexterity.png"
+  },
+  {
+    "Name": "Disintegrating Night Walkers",
+    "Description": "These boots offer Misty Step and immunity to Web, Entangle, and other movement impairing surfaces.",
+    "Location": "Moonrise Towers, by Kar'niss",
+    "Act": 2,
+    "Rarity": "Rare",
+    "Image": "https://bg3.wiki/w/images/thumb/2/27/Disintegrating_Night_Walkers.png/250px-Disintegrating_Night_Walkers.png"
+  },
+  {
+    "Name": "Potent Robe",
+    "Description": "Increases spell attack rolls and spell save DC, and adds Charisma modifier to Cantrip damage.",
+    "Location": "Last Light Inn, by Alfira (after quest)",
+    "Act": 2,
+    "Rarity": "Very Rare",
+    "Image": "https://bg3.wiki/w/images/thumb/5/52/Potent_Robe.png/250px-Potent_Robe.png"
+  },
+  {
+    "Name": "Helm of Balduran",
+    "Description": "Grants immunity to Stunned and Critical Hits, and restores HP at the start of your turn.",
+    "Location": "Wyrmrock Fortress, Ansur's Lair",
+    "Act": 3,
+    "Rarity": "Legendary",
+    "Image": "https://bg3.wiki/w/images/thumb/a/a7/Helm_of_Balduran.png/250px-Helm_of_Balduran.png"
+  }
+]
