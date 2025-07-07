@@ -5,7 +5,7 @@
     "Location": "Goblin Camp, by Anders",
     "Act": 1,
     "Rarity": "Uncommon",
-    "Image": "https://bg3.wiki/w/images/thumb/a/a2/Sword_of_Justice.png/250px-Sword_of_Justice.png",
+    "Image": "https://bg3.wiki/w/images/d/db/Sword_of_Justice_Icon.png",
     "Type": "Weapon"
   },
   {
@@ -14,7 +14,7 @@
     "Location": "Underdark, Selûnite Outpost",
     "Act": 1,
     "Rarity": "Rare",
-    "Image": "https://bg3.wiki/w/images/thumb/8/87/Amulet_of_Misty_Step.png/250px-Amulet_of_Misty_Step.png",
+    "Image": "https://bg3.wiki/w/images/7/72/Amulet_Necklace_B_Silver_A_1_Faded.png",
     "Type": "Accessory"
   },
   {
@@ -23,7 +23,7 @@
     "Location": "Crèche Y'llek, by Quartermaster Ardent",
     "Act": 1,
     "Rarity": "Very Rare",
-    "Image": "https://bg3.wiki/w/images/thumb/0/05/Gloves_of_Dexterity.png/250px-Gloves_of_Dexterity.png",
+    "Image": "https://bg3.wiki/w/images/2/27/Gloves_Leather_2_Faded.png",
     "Type": "Armour (Gloves)"
   },
   {
@@ -32,7 +32,7 @@
     "Location": "Moonrise Towers, by Kar'niss",
     "Act": 2,
     "Rarity": "Rare",
-    "Image": "https://bg3.wiki/w/images/thumb/2/27/Disintegrating_Night_Walkers.png/250px-Disintegrating_Night_Walkers.png",
+    "Image": "https://bg3.wiki/w/images/4/4f/Disintegrating_Nightwalkers_Icon.png",
     "Type": "Armour (Boots)"
   },
   {
@@ -41,7 +41,7 @@
     "Location": "Last Light Inn, by Alfira (after quest)",
     "Act": 2,
     "Rarity": "Very Rare",
-    "Image": "https://bg3.wiki/w/images/thumb/5/52/Potent_Robe.png/250px-Potent_Robe.png",
+    "Image": "https://bg3.wiki/w/images/7/70/Potent_Robe_Icon.png",
     "Type": "Armour (Clothing)"
   },
   {
@@ -50,7 +50,7 @@
     "Location": "Wyrmrock Fortress, Ansur's Lair",
     "Act": 3,
     "Rarity": "Legendary",
-    "Image": "https://bg3.wiki/w/images/thumb/a/a7/Helm_of_Balduran.png/250px-Helm_of_Balduran.png",
+    "Image": "https://bg3.wiki/w/images/1/1b/Helm_of_Balduran_Icon.png",
     "Type": "Armour (Helmet)"
   }
 ]
