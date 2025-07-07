@@ -104,7 +104,7 @@
     "Level": 0,
     "School": "Evocation",
     "Description": "Hurls a mote of fire.",
-    "Image": "https://bg3.wiki/w/images/thumb/8/8e/Fire_Bolt.webp/300px-Fire_Bolt.webp.png",
+    "Image": "https://bg3.wiki/w/images/thumb/2/23/Fire_Bolt_Icon.webp/144px-Fire_Bolt_Icon.webp.png",
     "Damage": "1d10 Fire",
     "Distance": "18m",
     "CastingCost": "Action"
@@ -114,7 +114,7 @@
     "Level": 0,
     "School": "Illusion",
     "Description": "Create a sound or image to distract.",
-    "Image": "https://bg3.wiki/w/images/thumb/4/47/Minor_Illusion.webp/300px-Minor_Illusion.webp.png",
+    "Image": "https://bg3.wiki/w/images/thumb/9/9d/Minor_Illusion_Icon.webp/144px-Minor_Illusion_Icon.webp.png",
     "Damage": "None",
     "Distance": "9m",
     "CastingCost": "Action"
