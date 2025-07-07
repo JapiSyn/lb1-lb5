@@ -2,6 +2,7 @@
   {
     "Name": "Elf",
     "Description": "Elves are graceful, long-lived humanoids with a deep connection to nature and magic. Known for their keen senses and agility, they often live in forests and maintain ancient traditions.",
+    "Image": "https://bg3.wiki/w/images/e/ec/Race_Elf.png",
     "Traits": [
       "Darkvision",
       "Fey Ancestry",
@@ -12,6 +13,7 @@
   {
     "Name": "Drow",
     "Description": "Drow, or dark elves, dwell in the Underdark and are known for their superior darkvision and innate magical abilities. They are often viewed with suspicion due to their sinister reputation.",
+    "Image": "https://bg3.wiki/w/images/thumb/1/1a/Race_Drow.png/150px-Race_Drow.png",
     "Traits": [
       "Superior Darkvision",
       "Sunlight Sensitivity",
@@ -22,6 +24,7 @@
   {
     "Name": "Githyanki",
     "Description": "Githyanki are astral warriors who escaped the tyranny of the mind flayers. Trained in combat and psionics, they are fierce, disciplined, and often at odds with other races.",
+    "Image": "https://bg3.wiki/w/images/thumb/a/af/Race_Githyanki.png/150px-Race_Githyanki.png",
     "Traits": [
       "Astral Knowledge",
       "Martial Prodigy",
@@ -31,6 +34,7 @@
   {
     "Name": "Human",
     "Description": "Humans are the most adaptable and ambitious of the common races. With a wide range of cultures and traits, they thrive in nearly any environment and pursue greatness in all forms.",
+    "Image": "https://bg3.wiki/w/images/thumb/6/6c/Race_Human.png/150px-Race_Human.png",
     "Traits": [
       "Versatile",
       "Adaptability",
@@ -40,6 +44,7 @@
   {
     "Name": "Tiefling",
     "Description": "Tieflings are humanoids with infernal heritage, often marked by horns, tails, and unusual skin tones. They possess innate magical abilities and a natural resistance to fire.",
+    "Image": "https://bg3.wiki/w/images/thumb/6/66/Race_Tiefling.png/150px-Race_Tiefling.png",
     "Traits": [
       "Hellish Resistance",
       "Darkvision",
