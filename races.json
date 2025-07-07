@@ -1,0 +1,49 @@
+[
+  {
+    "Name": "Elf",
+    "Description": "Elves are graceful, long-lived humanoids with a deep connection to nature and magic. Known for their keen senses and agility, they often live in forests and maintain ancient traditions.",
+    "Traits": [
+      "Darkvision",
+      "Fey Ancestry",
+      "Keen Senses",
+      "Trance"
+    ]
+  },
+  {
+    "Name": "Drow",
+    "Description": "Drow, or dark elves, dwell in the Underdark and are known for their superior darkvision and innate magical abilities. They are often viewed with suspicion due to their sinister reputation.",
+    "Traits": [
+      "Superior Darkvision",
+      "Sunlight Sensitivity",
+      "Fey Ancestry",
+      "Drow Magic"
+    ]
+  },
+  {
+    "Name": "Githyanki",
+    "Description": "Githyanki are astral warriors who escaped the tyranny of the mind flayers. Trained in combat and psionics, they are fierce, disciplined, and often at odds with other races.",
+    "Traits": [
+      "Astral Knowledge",
+      "Martial Prodigy",
+      "Psionic Jump"
+    ]
+  },
+  {
+    "Name": "Human",
+    "Description": "Humans are the most adaptable and ambitious of the common races. With a wide range of cultures and traits, they thrive in nearly any environment and pursue greatness in all forms.",
+    "Traits": [
+      "Versatile",
+      "Adaptability",
+      "Bonus Feat"
+    ]
+  },
+  {
+    "Name": "Tiefling",
+    "Description": "Tieflings are humanoids with infernal heritage, often marked by horns, tails, and unusual skin tones. They possess innate magical abilities and a natural resistance to fire.",
+    "Traits": [
+      "Hellish Resistance",
+      "Darkvision",
+      "Infernal Legacy"
+    ]
+  }
+]
