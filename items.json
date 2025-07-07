@@ -5,7 +5,8 @@
     "Location": "Goblin Camp, by Anders",
     "Act": 1,
     "Rarity": "Uncommon",
-    "Image": "https://bg3.wiki/w/images/thumb/a/a2/Sword_of_Justice.png/250px-Sword_of_Justice.png"
+    "Image": "https://bg3.wiki/w/images/thumb/a/a2/Sword_of_Justice.png/250px-Sword_of_Justice.png",
+    "Type": "Weapon"
   },
   {
     "Name": "Amulet of Misty Step",
@@ -13,7 +14,8 @@
     "Location": "Underdark, Selûnite Outpost",
     "Act": 1,
     "Rarity": "Rare",
-    "Image": "https://bg3.wiki/w/images/thumb/8/87/Amulet_of_Misty_Step.png/250px-Amulet_of_Misty_Step.png"
+    "Image": "https://bg3.wiki/w/images/thumb/8/87/Amulet_of_Misty_Step.png/250px-Amulet_of_Misty_Step.png",
+    "Type": "Accessory"
   },
   {
     "Name": "Gloves of Dexterity",
@@ -21,7 +23,8 @@
     "Location": "Crèche Y'llek, by Quartermaster Ardent",
     "Act": 1,
     "Rarity": "Very Rare",
-    "Image": "https://bg3.wiki/w/images/thumb/0/05/Gloves_of_Dexterity.png/250px-Gloves_of_Dexterity.png"
+    "Image": "https://bg3.wiki/w/images/thumb/0/05/Gloves_of_Dexterity.png/250px-Gloves_of_Dexterity.png",
+    "Type": "Armour (Gloves)"
   },
   {
     "Name": "Disintegrating Night Walkers",
@@ -29,7 +32,8 @@
     "Location": "Moonrise Towers, by Kar'niss",
     "Act": 2,
     "Rarity": "Rare",
-    "Image": "https://bg3.wiki/w/images/thumb/2/27/Disintegrating_Night_Walkers.png/250px-Disintegrating_Night_Walkers.png"
+    "Image": "https://bg3.wiki/w/images/thumb/2/27/Disintegrating_Night_Walkers.png/250px-Disintegrating_Night_Walkers.png",
+    "Type": "Armour (Boots)"
   },
   {
     "Name": "Potent Robe",
@@ -37,7 +41,8 @@
     "Location": "Last Light Inn, by Alfira (after quest)",
     "Act": 2,
     "Rarity": "Very Rare",
-    "Image": "https://bg3.wiki/w/images/thumb/5/52/Potent_Robe.png/250px-Potent_Robe.png"
+    "Image": "https://bg3.wiki/w/images/thumb/5/52/Potent_Robe.png/250px-Potent_Robe.png",
+    "Type": "Armour (Clothing)"
   },
   {
     "Name": "Helm of Balduran",
@@ -45,6 +50,7 @@
     "Location": "Wyrmrock Fortress, Ansur's Lair",
     "Act": 3,
     "Rarity": "Legendary",
-    "Image": "https://bg3.wiki/w/images/thumb/a/a7/Helm_of_Balduran.png/250px-Helm_of_Balduran.png"
+    "Image": "https://bg3.wiki/w/images/thumb/a/a7/Helm_of_Balduran.png/250px-Helm_of_Balduran.png",
+    "Type": "Armour (Helmet)"
   }
 ]
