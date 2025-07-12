@@ -2,6 +2,7 @@
   {
     "$type": "Weapon",
     "Name": "Silver Sword of the Astral Plane",
+    "Type": "Weapon",
     "Description": "A powerful silver sword, capable of severing the connection to the Astral Plane.",
     "Location": "Astral Plane",
     "Act": 3,
@@ -18,6 +19,7 @@
   {
     "$type": "Weapon",
     "Name": "Longbow +1",
+    "Type": "Weapon",
     "Description": "A finely crafted longbow, enchanted to strike true.",
     "Location": "Emerald Grove",
     "Act": 1,
@@ -34,6 +36,7 @@
   {
     "$type": "Armour",
     "Name": "Githyanki Half Plate",
+    "Type": "Armour",
     "Description": "Standard Githyanki half plate armour, light yet protective.",
     "Location": "Creche Y'llek",
     "Act": 2,
@@ -48,6 +51,7 @@
   {
     "$type": "Armour",
     "Name": "Adamantine Plate Armour",
+    "Type": "Armour",
     "Description": "Forged from Adamantine, this plate armour offers unparalleled protection.",
     "Location": "Grymforge",
     "Act": 1,
