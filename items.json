@@ -1,56 +1,62 @@
 [
   {
-    "Name": "Sword of Justice",
-    "Description": "A holy greatsword found early in the game, imbued with the power of Tyr.",
-    "Location": "Goblin Camp, by Anders",
-    "Act": 1,
-    "Rarity": "Uncommon",
-    "Image": "https://bg3.wiki/w/images/d/db/Sword_of_Justice_Icon.png",
-    "Type": "Weapon"
-  },
-  {
-    "Name": "Amulet of Misty Step",
-    "Description": "Allows the wearer to cast Misty Step once per Short Rest, providing excellent mobility.",
-    "Location": "Underdark, Selûnite Outpost",
-    "Act": 1,
-    "Rarity": "Rare",
-    "Image": "https://bg3.wiki/w/images/7/72/Amulet_Necklace_B_Silver_A_1_Faded.png",
-    "Type": "Accessory"
-  },
-  {
-    "Name": "Gloves of Dexterity",
-    "Description": "Sets the wearer's Dexterity to 18, and grants Advantage on Attack Rolls.",
-    "Location": "Crèche Y'llek, by Quartermaster Ardent",
-    "Act": 1,
-    "Rarity": "Very Rare",
-    "Image": "https://bg3.wiki/w/images/2/27/Gloves_Leather_2_Faded.png",
-    "Type": "Armour (Gloves)"
-  },
-  {
-    "Name": "Disintegrating Night Walkers",
-    "Description": "These boots offer Misty Step and immunity to Web, Entangle, and other movement impairing surfaces.",
-    "Location": "Moonrise Towers, by Kar'niss",
-    "Act": 2,
-    "Rarity": "Rare",
-    "Image": "https://bg3.wiki/w/images/4/4f/Disintegrating_Nightwalkers_Icon.png",
-    "Type": "Armour (Boots)"
-  },
-  {
-    "Name": "Potent Robe",
-    "Description": "Increases spell attack rolls and spell save DC, and adds Charisma modifier to Cantrip damage.",
-    "Location": "Last Light Inn, by Alfira (after quest)",
-    "Act": 2,
-    "Rarity": "Very Rare",
-    "Image": "https://bg3.wiki/w/images/7/70/Potent_Robe_Icon.png",
-    "Type": "Armour (Clothing)"
-  },
-  {
-    "Name": "Helm of Balduran",
-    "Description": "Grants immunity to Stunned and Critical Hits, and restores HP at the start of your turn.",
-    "Location": "Wyrmrock Fortress, Ansur's Lair",
+    "$type": "Weapon",
+    "Name": "Silver Sword of the Astral Plane",
+    "Description": "A powerful silver sword, capable of severing the connection to the Astral Plane.",
+    "Location": "Astral Plane",
     "Act": 3,
     "Rarity": "Legendary",
-    "Image": "https://bg3.wiki/w/images/1/1b/Helm_of_Balduran_Icon.png",
-    "Type": "Armour (Helmet)"
+    "Image": "silver_sword.png",
+    "Type": "Weapon",
+    "WeaponType": "Melee",
+    "DamageType": "Slashing",
+    "DamageDie": 8,
+    "DamageDieCount": 2,
+    "Range": 0,
+    "Properties": "Two-Handed, Sentient, Legendary Action"
+  },
+  {
+    "$type": "Weapon",
+    "Name": "Longbow +1",
+    "Description": "A finely crafted longbow, enchanted to strike true.",
+    "Location": "Emerald Grove",
+    "Act": 1,
+    "Rarity": "Uncommon",
+    "Image": "longbow_plus_1.png",
+    "Type": "Weapon",
+    "WeaponType": "Ranged",
+    "DamageType": "Piercing",
+    "DamageDie": 8,
+    "DamageDieCount": 1,
+    "Range": 150,
+    "Properties": "Heavy, Two-Handed"
+  },
+  {
+    "$type": "Armour",
+    "Name": "Githyanki Half Plate",
+    "Description": "Standard Githyanki half plate armour, light yet protective.",
+    "Location": "Creche Y'llek",
+    "Act": 2,
+    "Rarity": "Rare",
+    "Image": "githyanki_half_plate.png",
+    "Type": "Armour",
+    "ArmourClass": 15,
+    "MaxDexterityBonus": 2,
+    "ArmourType": "Medium",
+    "StealthDisadvantage": "No"
+  },
+  {
+    "$type": "Armour",
+    "Name": "Adamantine Plate Armour",
+    "Description": "Forged from Adamantine, this plate armour offers unparalleled protection.",
+    "Location": "Grymforge",
+    "Act": 1,
+    "Rarity": "Very Rare",
+    "Image": "adamantine_plate.png",
+    "Type": "Armour",
+    "ArmourClass": 18,
+    "MaxDexterityBonus": 0,
+    "ArmourType": "Heavy",
+    "StealthDisadvantage": "Yes"
   }
 ]
